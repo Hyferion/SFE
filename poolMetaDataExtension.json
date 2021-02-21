@@ -1,5 +1,7 @@
 {
    "info":{
+      "url_png_icon_64x64": "https://hyferion.github.io/SFE/favicon_64.png",
+      "url_png_logo": "https://hyferion.github.io/SFE/favicon_big.png",
       "location":"Zurich, Switzerland",
       "social":{
          "twitter_handle":"BitPhant",
