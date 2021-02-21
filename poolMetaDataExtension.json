@@ -1,20 +1,20 @@
 {
-    "info": {
-        "location": "Zurich, Switzerland",
-        "social": {
-            "twitter_handle": "BitPhant",
-            "telegram_handle": "https://t.me/joinchat/IOwQy28DhB0WVc-X",
-        },
-        "about": {
-            "me": "Software Engineers, System administrators and crypto enthusiasts",
-            "server": "Cloud-based servers located in Switzerland, 24/7, virtual network",
-            "company": "bitPhant, trying to do good with the help of crypto"
-        },
-    },
-    "my-pool-ids": {
-        "0": "d7479096c7f41344c6d121d47f4afe5a5be88cbdc73c0fc76bfc43f2",
-    },
-    "telegram-admin-handle": {
-        "0": "hyferion"
-    }
+   "info":{
+      "location":"Zurich, Switzerland",
+      "social":{
+         "twitter_handle":"BitPhant",
+         "telegram_handle":"https://t.me/joinchat/IOwQy28DhB0WVc-X"
+      },
+      "about":{
+         "me":"Software Engineers, System administrators and crypto enthusiasts",
+         "server":"Cloud-based servers located in Switzerland, 24/7, virtual network",
+         "company":"bitPhant, trying to do good with the help of crypto"
+      }
+   },
+   "my-pool-ids":{
+      "0":"d7479096c7f41344c6d121d47f4afe5a5be88cbdc73c0fc76bfc43f2"
+   },
+   "telegram-admin-handle":{
+      "0":"hyferion"
+   }
 }
